@@ -1,0 +1,5 @@
+{
+  "instruction": "Convert a video using the documented CLI tool.",
+  "context": "Use only documented options.",
+  "response": "HandBrakeCLI -i input.mp4 -o output.mp4"
+}

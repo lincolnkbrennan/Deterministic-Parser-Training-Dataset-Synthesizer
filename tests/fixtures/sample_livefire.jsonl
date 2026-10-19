@@ -1,0 +1,3 @@
+{"parsed":{"instruction":"Convert a video","context":"Use documented options","response":"HandBrakeCLI -i input.mp4 -o output.mp4"}}
+{"parsed":{"instruction":"Extract audio","context":"Use documented options","response":"HandBrakeCLI -i input.mp4 -o output.wav"}}
+{"parsed":{"instruction":"Encode video","context":"Use documented options","response":"HandBrakeCLI -i input.mp4 --preset Fast"}}
